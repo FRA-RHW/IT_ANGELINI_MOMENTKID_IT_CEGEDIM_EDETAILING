@@ -1,0 +1,13 @@
+/* CSS Document */
+
+@font-face {
+    font-family: 'CodeProLight';
+    src: url('../fonts/CodeProLight.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{width:1024px; height:768px; margin:0; padding:0; font-family:"HelveticaNeueLTStd-Md"; color:#fff;}
+#container{ width:1024px; height:768px; overflow:hidden; background-size:1024px; height:768px; position:relative; background-image:url(../images/bg.jpg);}
+
